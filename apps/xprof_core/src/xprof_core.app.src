@@ -7,7 +7,6 @@
    [kernel
    ,stdlib
    ,compiler
-   ,hdr_histogram
    ]}
  ,{env,[]}
  ,{modules, []}
